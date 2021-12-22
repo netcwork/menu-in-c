@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     
    // Metto in pausa il programma
     system ("pause");
-   
+    return (EXIT_SUCCESS);
 }
 
 
